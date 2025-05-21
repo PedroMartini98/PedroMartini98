@@ -31,10 +31,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -49,9 +45,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
 </div>
 
 ###
